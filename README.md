@@ -30,16 +30,12 @@ Fonctionnalités principales
 
 -   Sélection/désélection des skins
 -   Inventaire affiché dans une page dédiée
--   Emplacement pour image :
-
-    [AJOUTER ICI UNE IMAGE : Inventaire personnalisé]
 
 4. Sauvegarde en base de données
 
-Selon votre implémentation : - Supabase - Firebase - MySQL / PHP
-backend - SQLite local
+- Supabase
 
-→ L’inventaire de l’utilisateur est sauvegardé.
+L’inventaire de l’utilisateur est sauvegardé.
 
 ------------------------------------------------------------------------
 
